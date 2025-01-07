@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benslern
 - 👀 I’m interested in computational physics
-- 🌱 I’m currently learning computational science and engineering at McMaster University
+- 🌱 I’m currently pursuing a masters in computational science and engineering at McMaster University
 - 📫 How to reach me: benslern@mcmaster.ca
 - 😄 Pronouns: he/him
 
